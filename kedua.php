@@ -41,5 +41,3 @@ $volume_kerucut = volumeKerucut(45, 20);
 echo "Volume kerucut adalah {$volume_kerucut}\n";
 
 ?>
-
-
