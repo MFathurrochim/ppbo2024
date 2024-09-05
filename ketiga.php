@@ -64,20 +64,17 @@ class Kerucut
     }
 }
 
-
-$lingkaran = new Lingkaran(7);
+$lingkaran = new Lingkaran(9);
 echo "Luas lingkaran: " . $lingkaran->luas() . "\n";
 echo "Keliling lingkaran: " . $lingkaran->keliling() . "\n";
 
-// Contoh penggunaan class Bola
-$bola = new Bola(7);
+$bola = new Bola(9);
 echo "Volume bola: " . $bola->volume() . "\n";
 
-$tabung = new Tabung(7, 10);
+$tabung = new Tabung(9, 10);
 echo "Volume tabung: " . $tabung->volume() . "\n";
 
-$kerucut = new Kerucut(7, 10);
+$kerucut = new Kerucut(9, 10);
 echo "Volume kerucut: " . $kerucut->volume() . "\n";
 
 ?>
-
