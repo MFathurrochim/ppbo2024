@@ -1,5 +1,4 @@
 <?php
-
 class Author {
     private $name;
     private $description;

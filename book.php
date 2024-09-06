@@ -1,5 +1,4 @@
 <?php
-
 class Book {
     private $ISBN;
     private $title;

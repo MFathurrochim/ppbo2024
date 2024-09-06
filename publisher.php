@@ -1,5 +1,4 @@
 <?php
-
 class Publisher {
     private $name;
     private $address;
