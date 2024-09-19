@@ -1,0 +1,21 @@
+{
+    "name": "mfathurrochim/ppbo2024",
+    "description": "merupakan package untuk latihan pemograman berorientasi objek",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mfathurrochim",
+            "email": "faturohimskd06@gmail.com"
+        }
+    ],
+
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "App\\":"App"
+        }
+    }
+}
+
+
